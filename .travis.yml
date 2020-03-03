@@ -9,6 +9,14 @@ script:
   - npm install hexo
   - hexo clean
   - hexo g
+after_script:
+  - cd ./public
+  - git init
+  - git config user.name "nomadli"
+  - git config user.email "dzym79@qq.com"
+  - git add .
+  - git commit -a -m "Auto update docs by Travis CI."
+  - git push --force --quiet "https://${GH_TOKEN}@github.com/nomadli79/nomadli79.github.io.git" master:master
 deploy:
   provider: pages
   skip-cleanup: false
