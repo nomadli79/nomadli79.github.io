@@ -1,26 +1,18 @@
+sudo: false
 language: node_js
 node_js: stable
-
-install:
-  - npm install hexo
-
-script:
-  - hexo clean
-  - hexo g
-
-after_script:
-  - cd ./public
-  - git init
-  - git config user.name "nomadli"
-  - git config user.email "dzym79@163.com"
-  - git add .
-  - git commit -a -m "Auto update docs by Travis CI."
-  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
-
+cache: npm
 branches:
   only:
-    - hexo
-
-env:
- global:
-   - GH_REF: github.com/nomadli79/nomadli79.github.io.git
+    - source
+script:
+  - npm install hexo
+  - hexo clean
+  - hexo g
+deploy:
+  provider: pages
+  skip-cleanup: false
+  github-token: $GH_TOKEN
+  keep-history: false
+  on: master
+  local-dir: public
