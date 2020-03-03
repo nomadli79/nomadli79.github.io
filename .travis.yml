@@ -6,6 +6,7 @@ branches:
   only:
     - source
 script:
+  - npm install hexo
   - hexo clean
   - hexo g
 deploy:
