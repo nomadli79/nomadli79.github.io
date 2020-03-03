@@ -5,16 +5,14 @@ cache: npm
 branches:
   only:
     - source
-install:
-  - npm install hexo
 script:
   - hexo clean
   - hexo g
 deploy:
   provider: pages
-  skip-cleanup: false
+  skip-cleanup: true
   github-token: $GH_TOKEN
-  keep-history: false
+  keep-history: true
   on:
     branch: master
   local-dir: public
