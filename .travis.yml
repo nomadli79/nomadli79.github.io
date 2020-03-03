@@ -4,14 +4,6 @@ node_js: stable
 install:
   - npm install hexo
 
-deploy:
-  provider: pages
-  skip-cleanup: false
-  github-token: $GH_TOKEN
-  keep-history: false
-  on: master
-  local-dir: public
-
 script:
   - hexo clean
   - hexo g
@@ -19,8 +11,8 @@ script:
 after_script:
   - cd ./public
   - git init
-  - git config user.name "nomadli79"
-  - git config user.email "dzym79@qq.com"
+  - git config user.name "nomadli"
+  - git config user.email "dzym79@163.com"
   - git add .
   - git commit -a -m "Auto update docs by Travis CI."
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
