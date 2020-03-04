@@ -9,7 +9,7 @@ tags:
 
 ## 联系方式
 1. Email: dzym79@qq.com
-2. QQ群: 93129484
+2. QQ群: [93129484](https://shang.qq.com/wpa/qunwpa?idkey=56e33df8fa1562fd37c5ef81d3fcac40f47db08841279ae245b2e9508172ed34)
 3. 公众号: 梦回科技
 
 ## 功能介绍

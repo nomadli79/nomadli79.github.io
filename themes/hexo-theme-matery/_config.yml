@@ -4,18 +4,18 @@ menu:
   首页:
     url: /
     icon: fa-home
-#  标签:
-#    url: /tags
-#    icon: fa-tags
-#  分类:
-#    url: /categories
-#    icon: fa-bookmark
-#  归档:
-#    url: /archives
-#    icon: fa-archive
-#  关于:
-#    url: /about
-#    icon: fa-user-circle-o
+  标签:
+    url: /tags
+    icon: fa-tags
+  分类:
+    url: /categories
+    icon: fa-bookmark
+  归档:
+    url: /archives
+    icon: fa-archive
+  关于:
+    url: /about
+    icon: fa-user-circle-o
 #  友情链接:
 #    url: /friends
 #    icon: fa-address-book
@@ -86,7 +86,7 @@ indexbtn:
   enable: true
   name: 进入群聊
   icon: fa-cloud-download
-  url: https://shang.qq.com/wpa/qunwpa?idkey=b98826da513b6488080b891e810ff6000f0b4d285841b6adf13498e2fdc53de6
+  url: https://shang.qq.com/wpa/qunwpa?idkey=56e33df8fa1562fd37c5ef81d3fcac40f47db08841279ae245b2e9508172ed34
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
@@ -159,7 +159,7 @@ profile:
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
 # 在“关于”页面配置"我的项目"信息，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
 myProjects:
-  enable: flase
+  enable: false
   data:
     hexo-theme-matery:
       icon: fa-meetup
