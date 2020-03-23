@@ -35,7 +35,7 @@ dream:
   enable: true
   showTitle: true
   title: 梦回科技
-  text: 感谢您实用梦回科技的产品,如需帮助请联系客服。Email:dzym79@qq.com QQ群:93129484 公众号:梦回科技
+  text: 感谢您使用梦回科技的产品,如需帮助请联系客服。Email:dzym79@qq.com QQ群:93129484 公众号:梦回科技
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
@@ -153,7 +153,7 @@ clicklove:
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
   avatar: /favicon.png
-  introduction: 感谢您实用梦回科技的产品,如需帮助请联系客服。Email:dzym79@qq.com QQ群:93129484 公众号:梦回科技
+  introduction: 感谢您使用梦回科技的产品,如需帮助请联系客服。Email:dzym79@qq.com QQ群:93129484 公众号:梦回科技
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
