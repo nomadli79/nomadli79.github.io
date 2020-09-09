@@ -17,7 +17,9 @@
         
         };
         
-        $(".gitter-chat-embed").css("z-index",1000);
+        $(".gitter-open-chat-button").on("click",function(){
+           $(".gitter-chat-embed").css("z-index",1000);
+        });
         
     </script>
     <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
