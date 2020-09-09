@@ -10,19 +10,6 @@
 
     <%- partial('_partial/search') %>
     <%- partial('_partial/back-top') %>
-
-    <script>
-        ((window.gitter = {}).chat = {}).options = {
-          room: 'nomadli/community'
-        
-        };
-        
-        $(".gitter-open-chat-button").on("click",function(){
-           $(".gitter-chat-embed").css("z-index",1000);
-        });
-        
-    </script>
-    <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
     
     <script src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.materialize) %>"></script>
     <script src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.masonry) %>"></script>
@@ -111,6 +98,16 @@
     <% if (theme.instantpage.enable) { %>
     <script src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.instantpage) %>" type="module"></script>
     <% } %>
+
+    <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async></script>
+    <script>
+        ((window.gitter = {}).chat = {}).options = {
+          room: 'nomadli/community'
+        }
+        window.onload = function() {
+            $(".gitter-chat-embed").css("z-index",1000);
+        }
+    </script>
 
 </body>
 
