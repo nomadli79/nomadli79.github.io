@@ -11,6 +11,13 @@
     <%- partial('_partial/search') %>
     <%- partial('_partial/back-top') %>
 
+    <script>
+        ((window.gitter = {}).chat = {}).options = {
+          room: 'nomadli/community'
+        };
+    </script>
+    <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
+    
     <script src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.materialize) %>"></script>
     <script src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.masonry) %>"></script>
     <script src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.aos) %>"></script>
