@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>ArtQRCode 技术支持</title>
+      <link href="/2020/03/03/artqrcode/"/>
+      <url>/2020/03/03/artqrcode/</url>
+      
+        <content type="html"><![CDATA[<h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><ol><li>Email: <a href="mailto:&#100;&#122;&#x79;&#109;&#x37;&#57;&#64;&#113;&#113;&#46;&#x63;&#111;&#x6d;">&#100;&#122;&#x79;&#109;&#x37;&#57;&#64;&#113;&#113;&#46;&#x63;&#111;&#x6d;</a></li><li>QQ群: <a href="https://shang.qq.com/wpa/qunwpa?idkey=56e33df8fa1562fd37c5ef81d3fcac40f47db08841279ae245b2e9508172ed34">93129484</a></li><li>公众号: 梦回科技</li></ol><h2 id="功能介绍"><a href="#功能介绍" class="headerlink" title="功能介绍"></a>功能介绍</h2><h3 id=""><a href="#" class="headerlink" title=""></a><img  src="/img/ArtQRCode/1.png" align='left'/></h3><p>  用来修改生成的二维码尺寸，注意图片尺寸是二维码尺寸的两倍。两倍像素是为了使扫描相对容易，但二维码尺寸过大，手机需要离的更远，导致手机摄像头无法分辨两个数据点，会导致无法识别，这时需要将图片保存，然后选择从相册图片识别二维码。</p><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><img  src="/img/ArtQRCode/2.png" align='left'/></h3><p>  用来输入链接或文字信息，您可以输入网址或任何文本。</p><h3 id="-2"><a href="#-2" class="headerlink" title=""></a><img  src="/img/ArtQRCode/3.png" align='left'/></h3><p>  用来选择二维码背景色和数据颜色，其中背景可透明，数据颜色不可透明。注意背景选择透明后会导致微信等App无法识别图片数据，这时需要将图片保存到相册，然后再发送给微信等App，这时IOS系统会自动将图片修改成不透明。(右上角有两个重叠的方块可以切换背景与数据)。</p><h3 id="-3"><a href="#-3" class="headerlink" title=""></a><img  src="/img/ArtQRCode/4.png" align='left'/></h3><p>  用摄像头拍照并选取照片进行二维码合成。</p><h3 id="-4"><a href="#-4" class="headerlink" title=""></a><img  src="/img/ArtQRCode/5.png" align='left'/></h3><p>  从相册选取照片进行二维码合成。</p><h3 id="-5"><a href="#-5" class="headerlink" title=""></a><img  src="/img/ArtQRCode/6.png" align='left'/></h3><p>  选择不同的图像处理模式，不同的模式适用于不同的图片，这需要您自己多尝试才能生成满意的合成二维码。</p><h3 id="-6"><a href="#-6" class="headerlink" title=""></a><img  src="/img/ArtQRCode/7.png" align='left'/></h3><p>  当生成二维码后，用来分享到不同的App，这属于IOS自己的功能，如果您的设备IOS版本比较低，只会出现少数App，这时您可以选择保存到相册再分享给其他程序。</p><h3 id="-7"><a href="#-7" class="headerlink" title=""></a><img  src="/img/ArtQRCode/8.png" align='left'/></h3><p>  这是1.1版本加入的功能，显示了联系信息。1.0版本只能在系统设置–&gt; ArtQRCode–&gt;help下面查看。设置里还列出了App开发引用的第三方开源库，非常感谢这些程序的无私奉献。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术支持 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ArtQRCode </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>iCProxy 技术支持</title>
+      <link href="/2020/03/03/icproxy/"/>
+      <url>/2020/03/03/icproxy/</url>
+      
+        <content type="html"><![CDATA[<h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><ol><li>Email: <a href="mailto:&#x64;&#x7a;&#121;&#x6d;&#x37;&#57;&#x40;&#113;&#x71;&#46;&#x63;&#x6f;&#109;">&#x64;&#x7a;&#121;&#x6d;&#x37;&#57;&#x40;&#113;&#x71;&#46;&#x63;&#x6f;&#109;</a></li><li>QQ群: <a href="https://shang.qq.com/wpa/qunwpa?idkey=56e33df8fa1562fd37c5ef81d3fcac40f47db08841279ae245b2e9508172ed34">93129484</a></li><li>公众号: 梦回科技</li></ol><h2 id="网页一键配置"><a href="#网页一键配置" class="headerlink" title="网页一键配置"></a>网页一键配置</h2><p>如果您的代理服务器提供商在其网站提供了链接快速配置，您只需点击链接并同意用iCProxy打开，就会自动帮你填写配置。快速配置链接一般在网页上会提示：“ios中请在Safari中打开并点击这里”的说明文字，链接内容一般是ss://或 ssr://开头</p><h2 id="二维码扫描配置"><a href="#二维码扫描配置" class="headerlink" title="二维码扫描配置"></a>二维码扫描配置</h2><p>如果您的代理服务器提供商没有提供快速配置链接，一般都会提供二维码配置方式，二维码配置一次只能配置一个服务器，需要多次扫描，添加不同的服务器。请进入“新建代理”-&gt;“负载均衡服务器” 最左面有一个扫描图标，点击同意使用相机开始扫描。</p><h2 id="通过订阅配置"><a href="#通过订阅配置" class="headerlink" title="通过订阅配置"></a>通过订阅配置</h2><p>如果您的代理服务器提供商非常高级的提供订阅功能，您点击订阅，然后在编辑框中输入订阅链接，确定后会自动配置服务器。如果有多个提供商的多个订阅，请每行输入一个订阅。订阅不会自动更新，如果服务器配置更新，需要进入编辑，点开订阅，直接点确定来更新订阅。</p><h2 id="设置属性含义"><a href="#设置属性含义" class="headerlink" title="设置属性含义"></a>设置属性含义</h2><ol><li>自动代理模式：自动判断网络是否被墙，节省代理流量，加快直通网访问速度。<br>全流量代理模式：所有网络访问都通过shadowsocks代理服务器代理.(新版本DNS解析不走代理，因为发现大多提供商dns会无返回,如果代理提供DNS转发可以使用DNS隧道)</li><li>TCP_ONLY：只代理TCP流量，网页、http、https、常见app都使用TCP。</li><li>UDP_ONLY：只代理UDP流量，DNS、部分游戏、部分app。</li><li>代理DNS：开启全流量后默认不转发DNS,可以开启转发,当开启DNS隧道后忽略此设置</li><li>DNS隧道：使用shadowsocks发送DNS查询。</li><li>DNS查询：即将<a href="http://www.google.com解析成手机认识的/">www.google.com解析成手机认识的</a> IP地址。</li><li>DNS污染：返回错误的IP导致无法访问或到访问到其它网站。</li><li>高级选项：这里最好默认，如要开启必须确保与代理服务器设置相同</li><li>Fast Open：在TCP链接握手期间就开始发送数据</li><li>No Delay：控制TCP不等待后续数据，有数据就发送(开启有可能速度降低,主要用实时服务)</li><li>MultiPath TCP：一个TCP请求建立多条链接，需要更新服务器内核</li><li>MTU：这个需要根据网络情况设置，MTU由访问的服务器路径中MTU最小的路由器决定。</li><li>负载均衡：在多个SS服务器中实时被动测速，选择反应最快的SS服务器。</li><li>被动测速：此功能在IOS系统设置里开启，软件不主动发送请求测速，防止一些防护级别高的服务器把客户端加入黑名单。当用户访问网络需要走代理模式时，软件根据服务器反应速度实时调整各个服务器负载，达到最优的访问速度。</li></ol><h2 id="自定义规则"><a href="#自定义规则" class="headerlink" title="自定义规则"></a>自定义规则</h2><ol><li>一行一条规则</li><li>@@开头的规则代表 ip 或 域名 不走代理</li><li>||开头的规则代表 ip 或 域名 通过代理访问</li></ol><h2 id="DNS服务器设置"><a href="#DNS服务器设置" class="headerlink" title="DNS服务器设置"></a>DNS服务器设置</h2><ol><li>默认会设置7个常见的国外DNS服务器，当情况设置后，代理使用IOS或者路由器或者网络提供商的DNS服务器。</li><li>设置国外DNS可以避免DNS污染，但是通过DNS进行分流的网站服务器就会访问距离设置的DNS所在国家近的服务器，可能会影响速度。8.8.8.8等知名DNS可能会随机投毒，因此应该使用非知名DNS</li><li>当使用DNS隧道后，这些DNS设置将被忽略</li><li>全流量DNS转发开关默认是关闭，即在全流量的情况下，DNS请求不走代理，主要原因是部分代理提供商并不支持DNS转发，这种情况DNS隧道也会失败。</li><li>有效防止DNS污染的方法是开启DNS隧道,并设置国外DNS。</li></ol><p>##v常见问题</p><ol><li><p>YouTube、instagram等视频无法播放，需要全流量才可以。<br>   YouTube、instagram等视频服务器并没有被墙，但拒绝国内ip访问。iCProxy中黑名单没有这些ip地址，因此在自动判断时会选择直连时，视频服务器返回数据提示视频对应的app关闭链接，而不是拒绝或无法连接，因此iCProxy判断是直连。目前已更新黑名单地址，如果还出现类似情况，请断开链接、结束iCProxy重新启动看看。如果还不行，可以选择全流量，或者将当前使用的服务器ip添加到自定义规则中，或者打开日志，并将日志发给<a href="mailto:&#100;&#122;&#121;&#109;&#x37;&#x39;&#64;&#113;&#x71;&#x2e;&#x63;&#111;&#x6d;">&#100;&#122;&#121;&#109;&#x37;&#x39;&#64;&#113;&#x71;&#x2e;&#x63;&#111;&#x6d;</a></p></li><li><p>开启代理就会没有网络或者变4G<br>  IOS bug 出现概率很低 ，在代理开启状态下，关闭wifi、4g，然后再开启wifi或4g。</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术支持 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> iCProxy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

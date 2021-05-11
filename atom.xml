@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>梦回科技</title>
+  
+  <subtitle>梦回科技</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://nomadli79.github.io/"/>
+  <updated>2021-05-11T05:09:38.761Z</updated>
+  <id>https://nomadli79.github.io/</id>
+  
+  <author>
+    <name>梦回科技</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ArtQRCode 技术支持</title>
+    <link href="https://nomadli79.github.io/2020/03/03/artqrcode/"/>
+    <id>https://nomadli79.github.io/2020/03/03/artqrcode/</id>
+    <published>2020-03-03T15:31:28.000Z</published>
+    <updated>2021-05-11T05:09:38.761Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;联系方式&quot;&gt;&lt;a href=&quot;#联系方式&quot; class=&quot;headerlink&quot; title=&quot;联系方式&quot;&gt;&lt;/a&gt;联系方式&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Email: &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="技术支持" scheme="https://nomadli79.github.io/categories/%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81/"/>
+    
+    
+      <category term="ArtQRCode" scheme="https://nomadli79.github.io/tags/ArtQRCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iCProxy 技术支持</title>
+    <link href="https://nomadli79.github.io/2020/03/03/icproxy/"/>
+    <id>https://nomadli79.github.io/2020/03/03/icproxy/</id>
+    <published>2020-03-03T15:31:28.000Z</published>
+    <updated>2021-05-11T05:09:38.761Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;联系方式&quot;&gt;&lt;a href=&quot;#联系方式&quot; class=&quot;headerlink&quot; title=&quot;联系方式&quot;&gt;&lt;/a&gt;联系方式&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Email: &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="技术支持" scheme="https://nomadli79.github.io/categories/%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81/"/>
+    
+    
+      <category term="iCProxy" scheme="https://nomadli79.github.io/tags/iCProxy/"/>
+    
+  </entry>
+  
+</feed>
